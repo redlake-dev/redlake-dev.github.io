@@ -19,3 +19,17 @@
     - AI Strategy & Consulting
     - Custom AI Integrations
     - Predictive Analytics
+
+- title: DevOps & Cloud Infrastructure
+  description: Streamline your development pipeline and scale your infrastructure with confidence. We provide end-to-end DevOps solutions across all major cloud platforms, ensuring reliability, security, and performance.
+  icon: M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z
+  features:
+    - AWS (EC2, Lambda, S3, RDS, ECS)
+    - Google Cloud Platform (GCE, Cloud Run, GKE)
+    - Microsoft Azure (VMs, App Service, AKS)
+    - Kubernetes Orchestration & Management
+    - CI/CD Pipeline Design & Implementation
+    - Infrastructure as Code (Terraform, CloudFormation)
+    - Docker Containerization
+    - Monitoring & Logging Solutions
+    - Cloud Cost Optimization

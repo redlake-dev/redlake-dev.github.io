@@ -1,0 +1,32 @@
+<footer class="bg-brand-charcoal text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div>
+                <div class="flex items-center space-x-3 mb-4">
+                    <img src="{{ '/logo.png' | relative_url }}" alt="Redlake Logo" class="h-10 w-10">
+                    <span class="text-xl font-bold">redlake</span>
+                </div>
+                <p class="text-gray-400">Custom software solutions and AI product development.</p>
+            </div>
+            
+            <div>
+                <h3 class="text-lg font-semibold mb-4">Services</h3>
+                <ul class="space-y-2 text-gray-400">
+                    <li><a href="#services" class="hover:text-brand-orange transition duration-200">Custom Software Development</a></li>
+                    <li><a href="#services" class="hover:text-brand-orange transition duration-200">AI Product Development</a></li>
+                </ul>
+            </div>
+            
+            <div>
+                <h3 class="text-lg font-semibold mb-4">Contact</h3>
+                <ul class="space-y-2 text-gray-400">
+                    <li><a href="mailto:hello@redlake.dev" class="hover:text-brand-orange transition duration-200">hello@redlake.dev</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
+            <p>&copy; {{ 'now' | date: "%Y" }} Redlake. All rights reserved.</p>
+        </div>
+    </div>
+</footer>

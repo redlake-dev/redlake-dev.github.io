@@ -1,0 +1,29 @@
+# Site settings
+title: Redlake
+description: Custom software solutions and AI product development
+url: "https://redlake.dev"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - tailwind.config.js
+  - postcss.config.js
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Include assets
+include:
+  - _includes
+  - _layouts
+  - assets

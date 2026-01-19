@@ -1,24 +1,15 @@
 - title: Custom Software Development
-  description: We create bespoke software solutions tailored to your unique business requirements. From web applications to enterprise systems, we bring your vision to life with clean, maintainable code.
+  description: We create bespoke software solutions tailored to your unique business requirements. From web applications to enterprise systems with AI integration, we bring your vision to life with clean, maintainable code.
   icon: M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4
   features:
     - Web & Mobile Applications
     - Enterprise Software Solutions
     - API Development & Integration
+    - LLM Integration & AI-Powered Features
+    - Computer Vision Integration
     - Database Design & Optimization
     - Cloud Infrastructure Setup
     - Legacy System Modernization
-
-- title: AI Product Development
-  description: Harness the power of artificial intelligence to solve complex problems and create innovative products. We specialize in developing AI-powered solutions that deliver real business value.
-  icon: M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z
-  features:
-    - Machine Learning Models
-    - Natural Language Processing
-    - Computer Vision Solutions
-    - AI Strategy & Consulting
-    - Custom AI Integrations
-    - Predictive Analytics
 
 - title: DevOps & Cloud Infrastructure
   description: Streamline your development pipeline and scale your infrastructure with confidence. We provide end-to-end DevOps solutions across all major cloud platforms, ensuring reliability, security, and performance.

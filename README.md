@@ -1,10 +1,10 @@
 # Redlake
 
-Custom software solutions and AI product development.
+Custom software solutions, DevOps, and cloud infrastructure.
 
 ## About
 
-Redlake specializes in building custom software solutions tailored to your business needs. We also work on cutting-edge AI product development, helping companies leverage artificial intelligence to solve complex problems and create innovative solutions.
+Redlake specializes in building custom software solutions tailored to your business needs. We develop modern applications with AI integration (LLMs and computer vision), and provide comprehensive DevOps and cloud infrastructure services across AWS, Google Cloud, and Azure.
 
 ## Website
 
